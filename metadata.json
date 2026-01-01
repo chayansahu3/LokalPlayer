@@ -1,0 +1,7 @@
+{
+  "name": "LokalPlayer - Premium Music Experience",
+  "description": "A high-performance music streaming application inspired by high-end UI kits, featuring JioSaavn API integration, full playback controls, and a minimalist design.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
