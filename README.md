@@ -49,6 +49,3 @@ The app follows a modular architecture designed for performance and maintainabil
 The Repeat button features a dual-mode logic:
 1.  **Repeat One**: Replays the current track continuously.
 2.  **Replay Trigger**: When clicking the "Previous" button while a song has played for more than 3 seconds, the song automatically restarts from the beginning (Standard Music Player UX).
-
----
-*Built as a high-fidelity React implementation of the Music Player Intern Assignment.*
